@@ -27,8 +27,16 @@ Run chatbot.py and follow the prompts to enter the webpage URL and your query.
 https://chatboturl-jsfzd4au3kznw92jntnqs5.streamlit.app/
 ```
 
+## Preview
+
+![image](https://github.com/Aviral-3/Chatbot_URL/assets/63746541/1d87113b-0d53-4bf7-9941-0c9cb9ec1336)
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests with improvements or bug fixes.
+
+
+
 
 
